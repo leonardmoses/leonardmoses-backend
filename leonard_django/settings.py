@@ -77,9 +77,9 @@ WSGI_APPLICATION = 'leonard_django.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'tunr',
-        'USER': 'tunruser',
-        'PASSWORD': 'tunr',
+        'NAME': 'leonarddb',
+        'USER': 'leonardmoses',
+        'PASSWORD': 'saiyajin',
         'HOST': 'localhost'
     }
 }
